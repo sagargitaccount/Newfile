@@ -1,3 +1,4 @@
 This is a sample file
 Hi........there!
-
+Makng a small change
+>>>>>>> 9b8961b3900ee8c610ed7f1ee33c0640d9e3391f
